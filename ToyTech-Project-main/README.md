@@ -1,2 +1,1 @@
-# ToyTech-Project
-The ToyTech Workshop Management System is a platform designed for children aged 8-16 to engage in STEM workshops. It allows users to register, track progress, and participate in hands-on coding with Micro . The system manages workshops, tracks attendance, and awards certificates, inspiring young minds through interactive learning and innovation.
+The ToyTech Workshop Booking System is a web-based platform designed to simplify the booking and management of STEM workshops for private individuals, schools, and organizations. ToyTech offers hands-on, instructor-led workshops focused on coding and electronics using the BBC micro:bit, tailored for children aged 8–16.
