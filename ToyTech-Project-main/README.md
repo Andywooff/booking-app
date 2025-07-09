@@ -1,1 +1,0 @@
-The ToyTech Workshop Booking System is a web-based platform designed to simplify the booking and management of STEM workshops for private individuals, schools, and organizations. ToyTech offers hands-on, instructor-led workshops focused on coding and electronics using the BBC micro:bit, tailored for children aged 8–16.
